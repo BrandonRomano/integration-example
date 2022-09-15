@@ -1,4 +1,4 @@
-# Integration Example
+# Integration Example (0.0.2)
 
 This is an example integration.
 
